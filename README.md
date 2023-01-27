@@ -2,7 +2,7 @@
 ## I am Hennadii Korolevych, Data Analyst with a Background in Marketing 
 
 ### 📚 Projects 📚
-* For my data projects portfolio, [Click Here](https://github.com/Aneg0707/LTV-category-prediction-Python-) 
+* For my data projects portfolio, [Click Here](https://github.com/Aneg0707/My_Projects) 
 
 ### 🙌🏻 Connect with Me
 
